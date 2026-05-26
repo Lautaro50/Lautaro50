@@ -30,9 +30,7 @@ Formo parte de **LGL Solutions**, un equipo enfocado en desarrollar sistemas a m
 ## 🛠️ Tecnologías y Herramientas
 
 ### 💻 Lenguajes Principales
-### 🛠️ Tecnologías y Herramientas
 
-### 💻 Lenguajes Principales
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
