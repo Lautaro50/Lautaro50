@@ -1,24 +1,27 @@
 # ¡Hola! Soy Lautaro Martínez 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&width=500&lines=Full+Stack+Developer;Desarrollador+de+Sistemas;Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&width=500&lines=Full+Stack+Developer;Desarrollador+de+Sistemas;Estudiante+de+Programación" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 Sobre Mí
 
-Soy **Lautaro Martínez**, desarrollador enfocado en el diseño, creación y optimización de **sistemas y soluciones digitales completas**. Trabajo tanto en el desarrollo de interfaces de usuario atractivas (Frontend) como en la arquitectura lógica, automatización y gestión de datos (Backend).
+Soy **Lautaro Martínez**, estudiante de la **Tecnicatura Universitaria en Programación** en la **UTN (Universidad Tecnológica Nacional) - Facultad Regional San Rafael**, Mendoza, Argentina. 
 
-- 💻 Actualmente diseñando software a medida y expandiendo mis habilidades en sistemas complejos utilizando JavaScript, Python y Java.
-- 🎯 Mi objetivo es crear herramientas eficientes que resuelvan problemas reales y aporten valor a nivel empresarial y comercial.
-- ⚡ Me apasiona el código limpio, la optimización de procesos y el diseño de bases de datos robustas.
+Me enfoco en el diseño, desarrollo y optimización de **sistemas y soluciones digitales completas**. Trabajo tanto en la creación de interfaces de usuario interactivas (Frontend) como en la lógica interna, automatización y gestión de datos (Backend).
+
+- 🎓 Formándome profesionalmente en San Rafael, Mendoza.
+- 💻 Desarrollando sistemas a medida y expandiendo mis habilidades en lógica compleja con JavaScript, Python y Java.
+- 🎯 Mi objetivo es aplicar los conocimientos de la carrera para crear herramientas eficientes que resuelvan problemas reales en el sector IT.
+- ⚡ Apasionado por el código limpio, la optimización de procesos y la arquitectura de software.
 
 ---
 
 ## 💼 LGL Solutions (Proyectos & Emprendimientos)
 
-Formo parte de **LGL Solutions**, un equipo dedicado al desarrollo de sistemas web, diseño UX/UI, optimización SEO y estrategias de marketing digital para potenciar marcas y negocios en el entorno digital.
+Formo parte de **LGL Solutions**, un equipo dedicado al desarrollo de sistemas web, diseño UX/UI, optimización SEO y estrategias digitales para potenciar marcas y negocios en el entorno digital.
 
 <div align="left">
   <a href="https://lglsolutions.netlify.app/" target="_blank">
@@ -64,7 +67,7 @@ Formo parte de **LGL Solutions**, un equipo dedicado al desarrollo de sistemas w
 
 Puedes ver mis trabajos en mi **[Portfolio Web](https://lautaromartinez.netlify.app/)**, donde detallo proyectos tanto web como de sistemas:
 
-1. **Mi Portfolio Personal** *Diseño optimizado para mostrar mi experiencia y proyectos.* 🔧 *Tecnologías:* HTML, CSS, JavaScript, Netlify.
+1. **Mi Portfolio Personal** *Diseño optimizado para mostrar mi experiencia y proyectos académicos/personales.* 🔧 *Tecnologías:* HTML, CSS, JavaScript, Netlify.
 2. **Plataforma Corporativa LGL Solutions** *Estructura web moderna diseñada para la captación de clientes y exposición de servicios digitales.* 🔧 *Tecnologías:* HTML, CSS, JavaScript, Netlify.
 
 ---
