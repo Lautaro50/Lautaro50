@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre Mí
 
-Soy **Lautaro Martínez**, desarrollador enfocado en el diseño, creación y optimización de **sistemas y soluciones digitales completas**. Trabajo tanto en el desarrollo de interfaces de usuario atractivas (Frontend) como en la arquitectura lógica, automatización y gestión de datos (Backend). 
+Soy **Lautaro Martínez**, desarrollador enfocado en el diseño, creación y optimización de **sistemas y soluciones digitales completas**. Trabajo tanto en el desarrollo de interfaces de usuario atractivas (Frontend) como en la arquitectura lógica, automatización y gestión de datos (Backend).
 
 - 💻 Actualmente diseñando software a medida y expandiendo mis habilidades en sistemas complejos utilizando JavaScript, Python y Java.
 - 🎯 Mi objetivo es crear herramientas eficientes que resuelvan problemas reales y aporten valor a nivel empresarial y comercial.
@@ -18,19 +18,27 @@ Soy **Lautaro Martínez**, desarrollador enfocado en el diseño, creación y opt
 
 ## 💼 LGL Solutions (Proyectos & Emprendimientos)
 
-Formo parte de **LGL Solutions**, un equipo enfocado en desarrollar sistemas a medida, automatizar procesos y potenciar negocios a través de la tecnología. Algunos de nuestros proyectos:
+Formo parte de **LGL Solutions**, un equipo dedicado al desarrollo de sistemas web, diseño UX/UI, optimización SEO y estrategias de marketing digital para potenciar marcas y negocios en el entorno digital.
 
-- 🚀 **[Nombre del Sistema/Proyecto 1]** - [Breve descripción, ej: Sistema de gestión de inventario o plataforma integral]. 
-  * *Tech stack:* Java, MySQL, Backend logic. [👉 Ver Sitio Web](URL_PUBLICA_PROYECTO_1)
-- 📈 **[Nombre del Proyecto 2]** - [Breve descripción, ej: Aplicación web o automatización de tareas con scripts]. 
-  * *Tech stack:* Python, React, Node.js. [👉 Ver Sitio Web](URL_PUBLICA_PROYECTO_2)
+<div align="left">
+  <a href="https://lglsolutions.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Sitio+Web&logo=netlify&label=&color=00C7B7&logoColor=white&style=for-the-badge" height="25" alt="LGL Web" />
+  </a>
+  <a href="https://www.instagram.com/lgl.solutions.web/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="LGL Instagram" />
+  </a>
+</div>
+
+<br>
+
+- 🚀 **Desarrollo Web & Sistemas a Medida** - Creación de plataformas escalables, optimizadas y con un diseño exclusivo adaptado a las necesidades de cada cliente.
+- 📈 **Transformación Digital** - Ayudamos a emprendimientos y empresas a construir su identidad online y automatizar procesos comerciales.
 
 ---
 
 ## 🛠️ Tecnologías y Herramientas
 
 ### 💻 Lenguajes Principales
-
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -54,18 +62,22 @@ Formo parte de **LGL Solutions**, un equipo enfocado en desarrollar sistemas a m
 
 ## 📁 Proyectos Destacados
 
-Puedes ver mis trabajos en mi **[Portfolio Web](https://lautaromartinez.netlify.app/)**, donde detallo proyectos tanto web como de escritorio:
+Puedes ver mis trabajos en mi **[Portfolio Web](https://lautaromartinez.netlify.app/)**, donde detallo proyectos tanto web como de sistemas:
 
 1. **Mi Portfolio Personal** *Diseño optimizado para mostrar mi experiencia y proyectos.* 🔧 *Tecnologías:* HTML, CSS, JavaScript, Netlify.
-2. **[Nombre de tu Sistema 2]** *Descripción de algún software o sistema de escritorio/backend que creaste.* 🔧 *Tecnologías:* Python / Java.
+2. **Plataforma Corporativa LGL Solutions** *Estructura web moderna diseñada para la captación de clientes y exposición de servicios digitales.* 🔧 *Tecnologías:* HTML, CSS, JavaScript, Netlify.
 
 ---
 
 ## 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" height="190px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=tokyonight" alt="Lenguajes más usados" height="190px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lautaro50&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" height="190px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lautaro50&layout=compact&theme=tokyonight" alt="Lenguajes más usados" height="190px"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Lautaro50&locale=es&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph" />
 </p>
 
 ---
